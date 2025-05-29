@@ -1,0 +1,18 @@
+[
+    {
+        "candidato": "Juan Perez",
+        "votos": 7
+    },
+    {
+        "candidato": "Maria Gomez",
+        "votos": 5
+    },
+    {
+        "candidato": "Carlos Ruiz",
+        "votos": 9
+    },
+    {
+        "candidato": "Ana Torres",
+        "votos": 3
+    }
+]
